@@ -1,4 +1,4 @@
-## Hi there, my name is <font color="blue">Igor Rech </font> and I am a Software Developer living in Portugal.
+## Hi there, my name is Igor Rech
 <div align="center">
   <a href="https://github.com/igorrech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorrech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
