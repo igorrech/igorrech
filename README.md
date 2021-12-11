@@ -1,9 +1,4 @@
-### Hi, I'm Igor Rech 👋
-
-- 🔭 Software Developer 
-- 🌱 I’m currently learning JavaScript and React 
-- 📫 How to reach me: igorrech0@gmail.com
-
+## Hi, I'm Igor Rech!
 <div align="center">
   <a href="https://github.com/igorrech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorrech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
